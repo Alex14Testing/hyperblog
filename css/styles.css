@@ -43,3 +43,19 @@ body {
     background: white;
     padding: 1rem;
 }
+
+.footer {
+    background-color:#777;
+    color: white;
+    text-align: center;
+    padding: .5em;
+}
+.footer span{
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+
+
